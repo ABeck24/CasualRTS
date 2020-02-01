@@ -4523,3 +4523,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.01-21.41.06:287][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/PuzzleBP/Blueprints/Units/Units]
 [2020.02.01-21.41.06:343][728]LogSavePackage: Moving '../../../../../Projects and Stuff/Casual/CasualRTS/RTStest/Saved/Units_Auto479AD353142279235D8EAE998A19F584D.tmp' to '../../../../../Projects and Stuff/Casual/CasualRTS/RTStest/Saved/Autosaves/Game/PuzzleBP/Blueprints/Units/Units_Auto4.uasset'
 [2020.02.01-21.41.06:344][728]LogFileHelpers: Auto-saving content packages took 0.347
+[2020.02.01-21.43.32:510][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
